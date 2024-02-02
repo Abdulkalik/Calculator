@@ -24,6 +24,9 @@ body{
 
 
 }
+#br{
+    background-color: hsl(0, 0%, 15%);
+}
 
 #keys{
     display: grid;
